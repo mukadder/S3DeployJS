@@ -1,3 +1,4 @@
 .idea
 AwsConfig.json
 node_modules
+/nbproject/private/

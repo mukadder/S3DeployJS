@@ -1,5 +1,5 @@
 
-var BUCKET_NAME = 's3deploy.example';
+var BUCKET_NAME = 'mohabbet';
 
 var fs = require('fs');
 
